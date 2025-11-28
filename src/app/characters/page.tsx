@@ -165,7 +165,7 @@ const characters: Character[] = [
     conspiracyScore: 95,
     loyalty: 'The People',
     secretAgenda: 'End all rugs forever',
-    image: '/Website/Characters/Matt.png',
+    image: '/Website/Characters/Solao.png',
     role: 'The Hero / Memecoin Creator',
     backgroundStory: 'The mysterious creator of SAVIOR. Claims to be fighting the system from within. Creates educational content disguised as entertainment. Nobody knows his real identity, but his mission is clear: expose the truth.',
     quotes: [

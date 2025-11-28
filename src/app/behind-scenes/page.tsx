@@ -254,12 +254,12 @@ export default function BehindScenesPage() {
                     <div className="aspect-square bg-gradient-to-br from-[#14F195]/20 to-[#FB2BFF]/20 rounded-3xl border-2 border-yellow-400/40 p-8 group-hover:border-yellow-400/80 transition-all duration-500">
                       <div className="w-full h-full bg-black rounded-2xl overflow-hidden border border-gray-700 group-hover:border-yellow-400/60 transition-all duration-500">
                         <img
-                          src="/Website/mattportrait.png"
+                          src="/Website/solaoportrait.png"
                           alt="Matt - The Greatest Artist in Crypto"
                           className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
                         />
                         <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/90 to-transparent p-4">
-                          <p className="text-lg text-yellow-400 font-bangers">SOLAO</p>
+                          <p className="text-lg text-yellow-400 font-bangers">MATT</p>
                           <p className="text-sm text-gray-300">The Legend Himself</p>
                         </div>
                       </div>
