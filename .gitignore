@@ -1,0 +1,47 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js
+/.next/
+/out/
+
+# Production
+/build
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env*.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Large video files (will be hosted on YouTube)
+*.mp4
+*.mov
+public/Episode1/Episode\ 1\ FINAL.mp4
+public/Episode1/Final\ Scenes/*.mov
+public/sounds/
+public/videos/
+
+# Keep thumbnails and images
+!public/**/*.jpg
+!public/**/*.png
+!public/**/*.webp
+!public/**/*.svg
