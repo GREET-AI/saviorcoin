@@ -498,7 +498,7 @@ function Hero() {
             transition={{ delay: 1.1, duration: 0.6 }}
             className="hero-button-group"
           >
-            <Link href="/how-it-works" className="hero-icon-btn">
+            <Link href="/token-locks" className="hero-icon-btn">
               <img src="/Website/cryptologos/lock.png" alt="Lock" className="w-14 h-14" />
             </Link>
             <div className="hero-label-btn">
