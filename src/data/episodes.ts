@@ -80,7 +80,7 @@ export const episode1Scenes: EpisodeScene[] = [
     description: "Berlin rooftop. Blue meets Matt and the gang – alliance sealed.", 
     video: "SC09_....mp4",
     youtubeId: "COMING_TOMORROW",
-    thumbnail: "/thumbnails/sc09.jpg"
+    thumbnail: "/Website/Characters/Blue.png"
   },
   { 
     id: "SC10", 
@@ -88,7 +88,7 @@ export const episode1Scenes: EpisodeScene[] = [
     description: "Private jet to Frankfurt. Trump and Elon trade stories the internet will never hear.", 
     video: "SC10_jet_interior_turbul_2025_11_24T08_07_17_403Z_20251124091240969.mp4",
     youtubeId: "COMING_TOMORROW",
-    thumbnail: "/thumbnails/sc10.jpg"
+    thumbnail: "/Website/Characters/Donald.png"
   },
   { 
     id: "SC11", 
@@ -96,7 +96,7 @@ export const episode1Scenes: EpisodeScene[] = [
     description: "Frankfurt vault. Benjamin de Rothschild – officially dead since 2021 – offers adrenochrome and the final piece.", 
     video: "SC11_vault_door_opens_tr_2025_11_24T09_06_13_499Z_20251124121608728.mp4",
     youtubeId: "COMING_TOMORROW",
-    thumbnail: "/thumbnails/sc11.jpg"
+    thumbnail: "/Website/Characters/Benjamin.png"
   }
 ];
 
