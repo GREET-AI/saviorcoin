@@ -468,7 +468,7 @@ function Hero() {
             transition={{ delay: 0.9, duration: 0.6 }}
             className="hero-button-group"
           >
-            <Link href="https://pump.fun" target="_blank" rel="noopener noreferrer" className="hero-icon-btn">
+            <Link href="https://pump.fun/coin/BFcKBT2yLg6uAfCBmiYr9JZ4ZFKT6diQHdihKmVmpump" target="_blank" rel="noopener noreferrer" className="hero-icon-btn">
               <img src="/Website/cryptologos/PumpFun Logo.png" alt="Buy Token" className="w-14 h-14" />
             </Link>
             <div className="hero-label-btn">
@@ -652,7 +652,7 @@ function IntroContent() {
           </p>
           <div className="flex flex-wrap gap-4">
             <Link
-              href="https://pump.fun"
+              href="https://pump.fun/coin/BFcKBT2yLg6uAfCBmiYr9JZ4ZFKT6diQHdihKmVmpump"
             target="_blank"
             rel="noopener noreferrer"
               className="group inline-flex items-center gap-3 rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:bg-[#14F195]"
@@ -1545,7 +1545,7 @@ function FinalCta() {
         </p>
         <div className="flex flex-wrap items-center justify-center gap-4">
           <Link
-            href="https://pump.fun"
+            href="https://pump.fun/coin/BFcKBT2yLg6uAfCBmiYr9JZ4ZFKT6diQHdihKmVmpump"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 rounded-full bg-white px-8 py-3 text-sm font-semibold text-black transition hover:bg-[#14F195]"

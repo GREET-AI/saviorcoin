@@ -103,7 +103,7 @@ export function MobileNav() {
                   className="mt-auto"
                 >
                   <Link
-                    href="https://pump.fun"
+                    href="https://pump.fun/coin/BFcKBT2yLg6uAfCBmiYr9JZ4ZFKT6diQHdihKmVmpump"
                     target="_blank"
                     rel="noopener noreferrer"
                     onClick={() => setIsOpen(false)}

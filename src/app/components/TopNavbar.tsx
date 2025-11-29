@@ -38,7 +38,7 @@ export function TopNavbar() {
   const [openSubmenu, setOpenSubmenu] = useState<string | null>(null);
   const [copied, setCopied] = useState(false);
 
-  const contractAddress = "CAXCAXCAXCAXCAXCAXCAXCAXCAXCAXCAX";
+  const contractAddress = "BFcKBT2yLg6uAfCBmiYr9JZ4ZFKT6diQHdihKmVmpump";
 
   const copyToClipboard = async () => {
     try {
@@ -180,7 +180,7 @@ export function TopNavbar() {
             className="modern-nav-cta"
           >
             <Link
-              href="https://pump.fun"
+              href="https://pump.fun/coin/BFcKBT2yLg6uAfCBmiYr9JZ4ZFKT6diQHdihKmVmpump"
               target="_blank"
               rel="noopener noreferrer"
               className="modern-nav-buy-btn"

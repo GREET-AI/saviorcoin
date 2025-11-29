@@ -11,8 +11,8 @@ import RetroGrid from "./components/RetroGrid";
 import { Sparkles } from "./components/Sparkles";
 import { BackgroundGradient } from "./components/BackgroundGradient";
 
-// TRUMP CA for now - easy replace later
-const CURRENT_CA = "8t8nY5R9p1gS9fY6ZJ9q4bL5mK7vN2xP3cQ8wE2rF6";
+// SAVIOR Contract Address
+const CURRENT_CA = "BFcKBT2yLg6uAfCBmiYr9JZ4ZFKT6diQHdihKmVmpump";
 
 const roadmapPhases = [
   {
