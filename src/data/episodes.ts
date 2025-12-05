@@ -106,6 +106,6 @@ export const mainEpisode = {
   title: "Episode I: On a Flight to Germany - Full Episode",
   description: "The complete first episode of SAVIOR",
   video: "Episode 1 FINAL.mp4",
-  youtubeId: "Gk6iQxg0bYc",
+  youtubeId: "36EbQGVU0Sc",
   thumbnail: "/thumbnails/episode1-full.jpg"
 };
